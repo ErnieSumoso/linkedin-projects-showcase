@@ -27,7 +27,7 @@
   <img src="media/project-showcase.png" alt="Showcase" width="400" height="400">
 </div>
 This repository was created with the sole purpose of ensuring high-quality images on the LinkedIn platform, particularly within the profile's Projects section.
-It serves as a centralized hub for the most relevant visualizations from my recent projects, many of which are linked from my LinkedIn Projects section.
+It serves as a centralized hub for the most relevant visualizations from my recent projects.
 Please feel free to explore the pictures and my LinkedIn profile.
 <h4 align="center">
   <code> <a href="https://www.linkedin.com/in/ernie-sumoso" title="LinkedIn"> <img width="22" src="media/project-linkedin.svg"> My LinkedIn </a> </code>

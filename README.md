@@ -11,13 +11,6 @@
   I utilize this repository to store the most relevant visualizations derived from my past projects, ensuring a refined showcase of my work on the LinkedIn platform.
   The primary objective of this repository is personal, aimed at maintaining a high-quality display of my projects.
   I plan to continuously add new files based on both ongoing and completed projects.
-  
-  <p align="center">
-    <br />
-    <a href="https://github.com/ErnieSumoso/linkedin-projects-showcase/pulls">Pull Requests</a>
-    ·
-    <a href="https://github.com/ErnieSumoso/linkedin-projects-showcase/issues">Issues</a>
-  </p>
 </div>
 
 

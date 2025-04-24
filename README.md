@@ -28,37 +28,6 @@ Please feel free to explore the pictures and my LinkedIn profile.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-## Getting Started
-
-There are no prerequisites, this is just a repository containing images and visualizations.
-
-### Installation
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/ErnieSumoso/linkedin-projects-showcase.git
-   ```
-2. Explore the files and enjoy!
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-## Usage
-
-You can use this repository as an example to create your own centralized repository for project visualizations!
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-## Roadmap
-
-- [ ] Update the repository for every on-going and finished project
-
-I am always open for any suggestions on how to improve the repository structure. Please add them [here](https://github.com/ErnieSumoso/linkedin-projects-showcase/issues)!
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- CONTACT -->
 ## Contact
 

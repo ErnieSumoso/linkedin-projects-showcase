@@ -7,30 +7,23 @@
     <img src="readme-files/project-icon.png" alt="Icon" width="80" height="80">
   </a>
 
-<h3 align="center">LinkedIn Projects Showcase Repository</h3>
-  I utilize this repository to store the most relevant visualizations derived from my past projects, ensuring a refined showcase of my work on the LinkedIn platform.
-  The primary objective of this repository is personal, aimed at maintaining a high-quality display of my projects.
-  I plan to continuously add new files based on both ongoing and completed projects.
+<h3 align="center">Linkedin Projects Showcase</h3>
+  This repository serves as storage for high-quality visualizations to showcase my projects on LinkedIn, projects section.
+  The main purpose of this repository is personal, aimed at maintaining a high-quality visualizations of my projects.
+  I plan to continuously add new files based on ongoing and completed projects.
 </div>
-
-
-## About The Project
-
-<div align="center">
-  <img src="readme-files/project-showcase.png" alt="Showcase" width="400" height="400">
-</div>
-This repository was created with the sole purpose of ensuring high-quality images on the LinkedIn platform, particularly within the profile's Projects section.
-It serves as a centralized hub for the most relevant visualizations from my recent projects.
-Please feel free to explore the pictures and my LinkedIn profile.
 <h4 align="center">
   <code> <a href="https://www.linkedin.com/in/ernie-sumoso" title="LinkedIn"> <img width="22" src="readme-files/project-linkedin.svg"> My LinkedIn </a> </code>
 </h4>
+<br>
+<div align="center">
+  <img src="readme-files/project-showcase.png" alt="Showcase" width="400">
+</div>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
 
 Ernie Sumoso - [GitHub Profile](https://github.com/ErnieSumoso) - [My Repositories](https://github.com/ErnieSumoso?tab=repositories)
 
-Project Link: https://github.com/ErnieSumoso/linkedin-projects-showcase
+<p align="right">(<a href="#readme-top">back to top</a>)</p>

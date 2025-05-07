@@ -13,7 +13,7 @@
   I plan to continuously add new files based on ongoing and completed projects.
 </div>
 <h4 align="center">
-  <code> <a href="https://www.linkedin.com/in/ernie-sumoso" title="LinkedIn"> <img width="22" src="readme-files/project-linkedin.svg"> My LinkedIn </a> </code>
+  <code> <a href="https://www.linkedin.com/in/erniesumoso" title="LinkedIn"> <img width="22" src="readme-files/project-linkedin.svg"> My LinkedIn </a> </code>
 </h4>
 <br>
 <div align="center">
